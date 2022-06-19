@@ -16,8 +16,8 @@
  <!--  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Binary info solutions provides Computer hardware and software products in Rajasthan and all around in India.">
-  <meta name="keywords" content="Computer hardware,Computer software,routers,cabels,tv,apps">
+  <meta name="description" content="BSM provides the wide range of sewing machines and other Electronic gadgets as well as repairing solutions.">
+  <meta name="keywords" content="Sewing machine,cooler,fan">
   <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">  <!--Google Fonts-->
   
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">  <!--Bootstrap_cdn-->
