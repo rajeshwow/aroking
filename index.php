@@ -1,7 +1,9 @@
 <?php include 'header.php' ?>
 <?php include 'headernav.php' ?>
 <?php include 'nav.php' ?>
-<?php include 'config.php' ?>
+<?php 
+// include 'config.php' 
+?>
 <?php
 error_reporting(0);
 $msg = '';
@@ -266,7 +268,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
@@ -294,7 +296,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
@@ -322,7 +324,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
@@ -380,7 +382,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
@@ -408,7 +410,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
@@ -439,7 +441,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
@@ -467,7 +469,7 @@ if (isset($_POST['submit'])) {
                   <div class="flip-card-back">
                      <h4 style="padding-top: 5%">Sewing Machine</h4>
                      <h4>Sewing machine products for home & Business.</h4>
-                     <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button>
+                     <!-- <button type="button" onclick="location.href = './wlan-aps-and-controllers.php';" class="btn product_button">Learn More</button> -->
                   </div>
                </div>
             </div>
