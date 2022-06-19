@@ -254,11 +254,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (1).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 5850</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
@@ -282,11 +282,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (6).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 4850</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
@@ -310,11 +310,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (11).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 4850</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
@@ -338,11 +338,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (14).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 4850</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
@@ -368,11 +368,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (15).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 4850</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
@@ -396,11 +396,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (16).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 1450</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
@@ -427,12 +427,12 @@ if (isset($_POST['submit'])) {
                            <div class="col-lg-12">
                            <span style="">Price</span>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               
                               <p><b style="font-size: 20px;">Rs 4500 (1 HP)</b></p>
                               
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                            <p><b style="font-size: 20px;">Rs 3800 (1/2 HP)</b></p>
                            </div>
                         </div>
@@ -455,11 +455,11 @@ if (isset($_POST['submit'])) {
                      <img src="./img/products/product (1).jpeg">
                      <div class="pricePoint">
                         <div class="row">
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
                               <p><b style="font-size: 20px;">Rs 4850</b></p>
                            </div>
-                           <div class="col-lg-6">
+                           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
                               <p><b style="font-size: 20px;">2 Years</b></p>
                            </div>
