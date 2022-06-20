@@ -256,7 +256,7 @@ if (isset($_POST['submit'])) {
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
-                              <p><b style="font-size: 20px;">Rs 5850</b></p>
+                              <p><b style="font-size: 20px;">Rs 4850</b></p>
                            </div>
                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
@@ -284,7 +284,7 @@ if (isset($_POST['submit'])) {
                         <div class="row">
                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               <span style="">Price</span>
-                              <p><b style="font-size: 20px;">Rs 4850</b></p>
+                              <p><b style="font-size: 20px;">Rs 5850</b></p>
                            </div>
                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                               Warrenty
@@ -658,7 +658,7 @@ if (isset($_POST['submit'])) {
             <hr>
             <li>
                <span class="formiconsss"><i class="fas fa-envelope-square"></i></span>
-               <span class="formaddresss"><b style="color: teal">Email</b> <br>info@BSM.net.in</span>
+               <span class="formaddresss"><b style="color: teal">Email</b> <br>info@aroking.co.in</span>
             </li>
 
          </ul>

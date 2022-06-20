@@ -11,12 +11,12 @@
   gtag('config', 'UA-91389436-3');
 </script>
 <link href="https://unpkg.com/pattern.css" rel="stylesheet">
-  <title>BSM</title>
+  <title>Aroking</title>
   <link rel="shortcut icon" href="./img/favicon.io">
  <!--  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="BSM provides the wide range of sewing machines and other Electronic gadgets as well as repairing solutions.">
+  <meta name="description" content="Aroking provides the wide range of sewing machines and other Electronic gadgets as well as repairing solutions.">
   <meta name="keywords" content="Sewing machine,cooler,fan">
   <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">  <!--Google Fonts-->
   
