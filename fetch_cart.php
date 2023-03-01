@@ -5,7 +5,7 @@
 session_start();
 
 $total_price = 0;
-$total_item = 0;
+$total_item = 0; 
 
 $output = '
 <div class="table-responsive" id="order_table">
